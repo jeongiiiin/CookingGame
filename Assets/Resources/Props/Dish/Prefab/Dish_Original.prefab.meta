@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0a97cbe626a9ca148a61088796943352
+timeCreated: 1533110530
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124585
+  packageName: Color Dishes
+  packageVersion: 1.1
+  assetPath: Assets/Dish/Prefab/Dish_Original.prefab
+  uploadId: 737740
